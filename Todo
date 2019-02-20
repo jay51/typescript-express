@@ -1,0 +1,6 @@
+
+1. Install Typescript "npm i -D typescript" 
+2. Create tsconfig for Typescript configurations "npx typescript --init"
+3. Compile Typescript and watch for files "npx typescript --watch" 
+4. Install eslint "npm i -D eslint"
+5. Create eslint configs "npx eslint --init"
